@@ -5,7 +5,7 @@ import tsu from './tsulogo.png';
 
 var x = 0;
 
-
+var tuy="muey caliente";
 
 function reset() {
   x = 0;
