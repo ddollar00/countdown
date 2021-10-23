@@ -46,13 +46,13 @@ function App() {
 
 
 
-        <input id="re" placeholder="Enter a num for count down" ></input>
+        <input id="re" placeholder="Enter a num for count downn" ></input>
         <button type="button" onClick={getVal} >Start</button>
         <button onClick={dec}>Pause</button>
         <button onClick={reset}>Clear</button>
         <p id="disp" className="bod">{x}</p>
         <body>Instructions</body>
-        <body>to use this timer first enter a number to count down from and press the set count down time button. press the stop timer button to (hola my frieds)stop the timer.</body>
+        <body>to use this timer first enter a number to count down from and press the set count down time button. presss the stop timer button to (hola my frieds)stop the timer.</body>
         <img src={logo} className="App-logo" alt="logo" />
         <body>
           <img src={tsu} className="App-logo2" alt="logo" />
